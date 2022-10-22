@@ -5,7 +5,7 @@ C'est une ville Chaleureuse et conviviale et se situe sur les montagnes.
 
 D'ici  2 chemin s'offrent à vous :
 
-lien vers villabé : [villabe](/TP2_git/TP2_Lab/jeu-heros-Labyrinthe-Tour-Mond/Villabe.md)
+lien vers villabé : [villabe](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
 
 lien vers Lyon
 
