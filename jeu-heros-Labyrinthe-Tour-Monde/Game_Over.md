@@ -4,6 +4,7 @@ DOMMAGE POUR VOUS, VOUS AVEZ PERDU ):
 VOUS POUVEZ RECOMMENCER !
 
 Retour vres le depart :
+
 [Depart](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/index.md)
 
 
