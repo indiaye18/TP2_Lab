@@ -1,4 +1,4 @@
-ISMAEL N'DIAYE
+SMAEL N'DIAYE
 
 La commune de Clermont-Ferrand est située dans le département du Puy de Dôme (63) et dans la région Auvergne Rhône-Alpes.
 Le maire de Clermont-Ferrand est Olivier BIANCHI. Les habitants de Clermont-Ferrand s'appellent Clermontois, Clermontoises.
