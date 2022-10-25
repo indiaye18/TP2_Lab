@@ -17,4 +17,6 @@ D'ici  2 chemin s'offrent à vous :
 [Lyon](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
 
 
-![alt text](https://a2f6z9k6.rocketcdn.me/wp-content/uploads/2019/09/Clermont_Ferrand_Crédit_Adeline_Girard_ClermontAuvergneMétropole-e1498574754402-1024x680.jpg) 
+![image clermont](https://a2f6z9k6.rocketcdn.me/wp-content/uploads/2019/09/Clermont_Ferrand_Crédit_Adeline_Girard_ClermontAuvergneMétropole-e1498574754402-1024x680.jpg) 
+
+[![image Surprise](https://images.subsplash.com/image.jpg?id=ecfdbfc0-0773-44aa-b05f-b605f9e274c0&w=1920&h=692)](https://github.com/ccousin26/Labyrinthe_TP2/blob/main/jeu-heros-paris/index.md)
