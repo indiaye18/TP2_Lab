@@ -1,4 +1,3 @@
-https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.mdhttps://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md
 **Kiev (en russe : Киев, Kiev / en ukrainien : Київ)**
 -------------------
 
@@ -15,8 +14,8 @@ https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/S
 
 
 
-[Clermont Ferrand](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md)
+[Clermont Ferrand](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Clermont_Ferrand.md)
 
-[Odessa](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md)
+[Odessa](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Odessa.md)
 
 Amani-Jaurès
