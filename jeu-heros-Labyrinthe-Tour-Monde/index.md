@@ -14,7 +14,5 @@ Pour debuter l'exploration, choississez un chemin :
 
 [Strasbourg](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md)
 
-[Autre Labyrinthe](https://github.com/ccousin26/Labyrinthe_TP2/blob/main/jeu-heros-paris/index.md)
-
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Quentin%2C_Basilika%2C_Labyrinth.jpg/1280px-St._Quentin%2C_Basilika%2C_Labyrinth.jpg)
