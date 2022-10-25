@@ -27,7 +27,7 @@ La ville est une destination touristique de premier ordre, avec de nombreux caf�
 
 
 
- [Villabé](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyre-Tour-Monde/Strasbourg.md)
+ [Villabé](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
  
  [Marseille](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Marseille.md)
 
