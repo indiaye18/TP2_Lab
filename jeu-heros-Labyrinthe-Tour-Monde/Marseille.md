@@ -8,6 +8,6 @@ Parmi les grands monuments que compte la ville, on trouve la basilique Notre-Dam
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/46/Marseille-Fort_Saint-Jean.JPG)
 
 
-[Odessa](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Odessa.md) 
+[Ville](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Odessa.md) 
 
 
