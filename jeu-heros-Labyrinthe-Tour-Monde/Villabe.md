@@ -15,7 +15,7 @@ Autour de Villabé se trouvent Mennecy qui se situe à 2.2 km, Ormoy est la seco
 
 Un unique chemin s'offre à vous :
 
-[LViV](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lviv.md)
+[Ville](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lviv.md)
 
 
 
