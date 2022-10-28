@@ -1,4 +1,4 @@
-Chemins:
+
 [Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Grenobles.md)
 [Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Nantes.md)
 [Ville 3](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
