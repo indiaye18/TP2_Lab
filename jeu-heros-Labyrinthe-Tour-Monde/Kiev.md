@@ -14,8 +14,8 @@
 
 
 
-[Clermont Ferrand](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Clermont_Ferrand.md)
+[Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Clermont_Ferrand.md)
 
-[Odessa](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Odessa.md)
+[Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Odessa.md)
 
 Amani-Jaurès
