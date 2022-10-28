@@ -6,4 +6,4 @@ Ses habitants s'appellent les Lyonnais et les Lyonnaises. On les appelle aussi l
 
 ![alt text](https://guide-de-lyon.fr/wp-content/uploads/2015/04/saint-jean.jpg)
 
-[Villablé](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md) 
+[Ville](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md) 
