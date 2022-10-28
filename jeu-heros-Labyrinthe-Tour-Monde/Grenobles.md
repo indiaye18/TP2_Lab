@@ -1,4 +1,4 @@
-Chemins:
+
 [Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Nantes.md) 
 [Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Game_Over.md)
 ![alt text](https://www.gix-immobilier.fr/public/files/images/AdobeStock_75656482.jpeg)
