@@ -8,7 +8,7 @@ C'est la plus grande ville de France. Paris est également la commune la plus pe
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tour_eiffel_paris-eiffel_tower.jpg/800px-Tour_eiffel_paris-eiffel_tower.jpg)
 
-[Etampe](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Etampe.md) 
+[Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Etampe.md) 
 
 
-[Arrivé](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Arrivee.md) 
+[Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Arrivee.md) 
