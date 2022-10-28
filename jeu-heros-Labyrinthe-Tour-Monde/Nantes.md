@@ -1,6 +1,6 @@
 Chemins :
-![salle 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
-![salle 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Game_Over.md)
+[salle 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
+[salle 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Game_Over.md)
 
 ![alt text](https://www.tourismebretagne.com/app/uploads/crt-bretagne/2018/11/1-nantes-ross-helen-1920x960-crop-1542298929.jpg)
 
