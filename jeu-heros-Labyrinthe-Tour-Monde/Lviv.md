@@ -13,6 +13,6 @@ annexée par la Russie, puis par l'Allemagne durant la Seconde Guerre mondiale, 
 
 
 
-[Paris](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Paris.md)
+[Ville](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Paris.md)
 
 Amani-Jaurès

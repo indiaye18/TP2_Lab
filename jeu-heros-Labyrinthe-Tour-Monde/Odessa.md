@@ -27,9 +27,9 @@ La ville est une destination touristique de premier ordre, avec de nombreux caf�
 
 
 
- [Villabé](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
+ [Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
  
- [Marseille](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Marseille.md)
+ [Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Marseille.md)
 
 Amani-Jaurès
 
