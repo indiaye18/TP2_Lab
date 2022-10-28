@@ -12,9 +12,7 @@ Autour d'Etampes il y a Brières les Scellés qui est à 2.2 km, Ormoy la Riviè
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Étampes8.JPG/1280px-Étampes8.JPG)
 
 
-Vous avez choisi de venir à Etampes ? La seule option qui vous offert est de retourner sur vos pas :)
-
-[Paris](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Paris.md)
+[Ville](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Paris.md)
 
 
 
