@@ -20,7 +20,7 @@ Bravo vous avez trouvez le lieu caché qui vous amène vers un autre labyrinthe 
 
 Pour la suite de l'exploration de ce labyrinthe 2 chemins s'offrent à vous :
 
-[Villabe](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
+[Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Villabe.md)
 
 
-[Lyon](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
+[Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
