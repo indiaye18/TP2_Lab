@@ -1,7 +1,7 @@
 Chemins:
-[salle 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Grenobles.md)
-[salle 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Nantes.md)
-[salle 3](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
+[Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Grenobles.md)
+[Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Nantes.md)
+[Ville 3](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Lyon.md)
 
 ![alt text](https://petit-train-strasbourg.fr/wp-content/uploads/2020/01/petits-trains-strasbourg-alsace-france-slider-4.jpg)
 
