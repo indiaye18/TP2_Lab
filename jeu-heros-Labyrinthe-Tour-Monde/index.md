@@ -14,10 +14,9 @@ Nous vous laissons à présent explorer ce champ de piège oups... ce labyrinthe
 
 Pour debuter l'exploration, choississez un chemin :
 
-[Clermont-FD](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Clermont_Ferrand.md)
+[Ville 1](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Clermont_Ferrand.md)
 
+[Ville 2](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md)
 
-[Strasbourg](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Strasbourg.md)
-
-
+[Ville 3](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Kiev.md)
 
