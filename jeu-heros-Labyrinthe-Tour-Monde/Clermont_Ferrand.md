@@ -13,7 +13,7 @@ Autour de Clermont-Ferrand il y a Chamalières qui est à 1.3 km, Durtol est la 
 
 Bravo vous avez trouvez le lieu caché qui vous amène vers un autre labyrinthe à explorer ! Cliquez sur l'image ci-dessous!
 
-[![image Surprise](https://images.subsplash.com/image.jpg?id=ecfdbfc0-0773-44aa-b05f-b605f9e274c0&w=1920&h=692)](https://github.com/ccousin26/Labyrinthe_TP2/blob/main/jeu-heros-paris/index.md)
+[![image Surprise](https://images.subsplash.com/image.jpg?id=ecfdbfc0-0773-44aa-b05f-b605f9e274c0&w=1920&h=692)](https://github.com/indiaye18/TP2_Lab/blob/main/jeu-heros-Labyrinthe-Tour-Monde/Dijon.md)
 
 
 
